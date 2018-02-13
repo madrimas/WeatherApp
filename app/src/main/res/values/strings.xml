@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="blank"></string>
+    <string name="coords">Współrzędne</string>
+    <string name="longitude">Długość: </string>
+    <string name="latitude">Szerokość: </string>
+    <string name="temperature">Temperatura:</string>
+    <string name="wind">Wiatr</string>
+    <string name="velocity">Prędkość: </string>
+    <string name="direction">Kierunek: </string>
+    <string name="pressure">Ciśnienie: </string>
+    <string name="city">Miasto: </string>
+</resources>
